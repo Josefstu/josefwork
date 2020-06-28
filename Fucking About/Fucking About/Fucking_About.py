@@ -33,7 +33,7 @@ print(message)
 #Separate lines with triple quotes
 print("""
 
-""")
+      """)
 
 # Define Function (fuckface1)
 def fuckface1(liquid):
@@ -42,5 +42,25 @@ def fuckface1(liquid):
 # Call the function by referencing the defined name of the function, don't forget to define the parameter (liquid) set at the beginning of the function
 liquid = "gamer girl spit"
 fuckface1(liquid)
+
+print("""
+
+      """)
+
+def renewal_letter(resident_name, new_rate):
+    print("Hello " + resident_name + ",")
+    print("We're so happy you've decided you renew with us Your new rental rate will be " + new_rate)
+renewal_letter("Joe Bob", "1000")
+
+print("""
+
+     """)
+
+
+print(""" Hello Joe Bob
+
+        Thank you so much for sucking my fat fucking cock, 
+        I sure do hope my balls are as tasty as they smell
+        I've been fermenting my cum and pouring it over my dick for three weeks""")
 
 
